@@ -1,3 +1,4 @@
+#!/bin/bash
 cd ~
 rm -fr .tmux.config 2>/dev/null
 git clone https://github.com/tony/tmux-config
